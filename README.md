@@ -1,4 +1,4 @@
-# covid-media-nlp
+# vaccine-media-nlp
 Dynamic topic modeling and other NLP analyses (keyness, n-grams, etc) on 14,000 NYT news articles
 
 * cleaning_corpora.ipynb: stripping the noisy rtf files into jsons
