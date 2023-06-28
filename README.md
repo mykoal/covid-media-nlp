@@ -1,5 +1,5 @@
 # vaccine-media-nlp
-Dynamic topic modeling and other NLP analyses (keyness, n-grams, etc) on 12,000 NYT news articles
+Dynamic topic modeling and other NLP analyses (keyness, n-grams, etc) on 12,334 NYT news articles
 
 * cleaning_corpora.ipynb: stripping the noisy rtf files into jsons
 * analyzing_corpora.ipynb: NLP analyses on the corpora (keyness, n-gram, etc)
